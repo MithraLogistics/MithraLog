@@ -1,0 +1,5 @@
+{
+  "name": "Mithra Logistics",
+  "description": "A sleek and modern single-page logistics application for shipment tracking and data portal access, designed for seamless deployment on Vercel and Git.",
+  "requestFramePermissions": []
+}
